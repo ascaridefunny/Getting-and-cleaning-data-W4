@@ -1,22 +1,22 @@
 Code Book
 
-ID Fields
+ID Fields:
 
-subject - The participant ("subject") ID
+   -  subject - The participant ("subject") ID
 
-activity - The label of the activity performed when the corresponding measurements were taken
+   -  activity - The label of the activity performed when the corresponding measurements were taken
 
-Activity Labels
+Activity Labels:
 
-WALKING (value 1)
+- WALKING (value 1)
 
-WALKING_UPSTAIRS (value 2)
+- WALKING_UPSTAIRS (value 2)
 
-WALKING_DOWNSTAIRS (value 3)
+- WALKING_DOWNSTAIRS (value 3)
 
-SITTING (value 4)
+- SITTING (value 4)
 
-STANDING (value 5)
+- STANDING (value 5)
 
-LAYING (value 6)
+- LAYING (value 6)
 
